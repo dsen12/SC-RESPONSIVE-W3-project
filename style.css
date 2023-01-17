@@ -106,7 +106,9 @@ p {
   p {
     text-align: center;
   }
-
+  .about-projects img {
+    margin-bottom: 40px;
+  }
   .project-link {
     display: block;
     text-align: center;
